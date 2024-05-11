@@ -1,9 +1,10 @@
 Que es lo que vamos a hacer?
 mini proyecto web
 Tecnologías
-html
+html                        //LISTO
 css
 bootstrap
+
 control de versiones
 repositorio local (GIT)     //LISTO
 repositorio GITHub          //LISTO

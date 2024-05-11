@@ -1,0 +1,52 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1, 6;
+    margin: 0;
+    padding: 0;
+    background: lightskyblue;
+    color: #333;
+
+}
+
+header {
+    background-color: coral;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+/* secciones */
+section {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #aed;
+    border: 1px solid #aed;
+}
+
+Footer {
+background-color: black;
+color: white;
+text-align: center;
+padding: 10px 0;
+position: static;
+width: 100%;
+
+
+}
