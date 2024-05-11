@@ -5,5 +5,5 @@ html
 css
 bootstrap
 control de versiones
-repositorio local (GIT)
-repositorio GITHub 
+repositorio local (GIT)     //LISTO
+repositorio GITHub          //LISTO
